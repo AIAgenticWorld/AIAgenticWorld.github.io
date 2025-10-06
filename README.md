@@ -40,17 +40,3 @@ It’s designed to be clean, modern, and responsive — optimized for **desktop,
 | **Hosting** | Z.ai / Vercel / Netlify (Update this) |
 
 ---
-
-## 📂 Folder Structure (Sample)
-
-```bash
-📁 portfolio-website/
-├── 📁 public/
-│   └── index.html
-├── 📁 src/
-│   ├── 📁 components/
-│   ├── 📁 assets/
-│   ├── 📁 styles/
-│   └── main.js / App.js
-├── package.json
-└── README.md
